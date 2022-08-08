@@ -1,0 +1,137 @@
+{
+	"chicken_thigh": {
+		"uuid": "442e1be9-eead-496e-8af9-4c5df2f35c91",
+		"name": "chicken thigh",
+		"plural": "chicken thighs",
+		"unit_categories": [
+			"weight",
+			"empty"
+		],
+		"forms": [
+			"bone-in",
+			"deboned",
+			"skin-on",
+			"skinless"
+		]
+	},
+	"potato": {
+		"uuid": "acb6d514-a3c3-4906-a4cc-eb392feefacd",
+		"name": "potato",
+		"plural": "potatoes",
+		"unit_categories": [
+			"weight",
+			"volume",
+			"empty"
+		],
+		"forms": [
+			"peeled",
+			"unpeeled",
+			"halved",
+			"quartered",
+			"cubed"
+		]
+	},
+	"lemon_juice": {
+		"uuid": "0439e4f6-6f00-4405-a99a-9654aaf13833",
+		"name": "lemon juice",
+		"plural": "lemon juice",
+		"unit_categories": [
+			"volume"
+		],
+		"forms": []
+	},
+	"olive_oil": {
+		"uuid": "b2383fe9-c9e1-48b0-9a4b-cdc879e75e0f",
+		"name": "olive oil",
+		"plural": "olive oil",
+		"unit_categories": [
+			"volume"
+		],
+		"forms": [
+			"extra virgin"
+		]
+	},
+	"garlic": {
+		"uuid": "d55c4edd-ecd9-4566-ad65-791a5c4a8c31",
+		"name": "garlic",
+		"plural": "garlic",
+		"unit_categories": [
+			"custom"
+		],
+		"custom_unit": [
+			"cloves"
+		],
+		"forms": [
+			"peeled",
+			"minced",
+			"crushed",
+			"sliced",
+			"cubed"
+		]
+	},
+	"oregano": {
+		"uuid": "fef2d528-20ad-405c-807c-c2b3799befcd",
+		"name": "oregano",
+		"plural": "oregano",
+		"unit_categories": [
+			"weight",
+			"volume"
+		],
+		"forms": [
+			"fresh",
+			"dried"
+		]
+	},
+	"salt": {
+		"uuid": "8e7de033-8c2a-4d5e-b0e5-0e62d4a241db",
+		"name": "salt",
+		"plural": "salt",
+		"unit_categories": [
+			"weight",
+			"volume"
+		],
+		"forms": []
+	},
+	"rosemary": {
+		"uuid": "11922f3b-5def-45f3-8bd3-b4414f7b9777",
+		"name": "rosemary",
+		"plural": "rosemary",
+		"unit_categories": [
+			"weight",
+			"volume"
+		],
+		"forms": [
+			"fresh",
+			"dried"
+		]
+	},
+	"black_pepper": {
+		"uuid": "ddf8b088-c73a-4cde-b89c-9216e7992b14",
+		"name": "black pepper",
+		"plural": "black pepper",
+		"unit_categories": [
+			"weight",
+			"volume"
+		],
+		"forms": []
+	},
+	"powdered_cayenne": {
+		"uuid": "dd0a3b64-d12a-46a6-a0e3-b2047db84add",
+		"name": "powdered cayenne",
+		"plural": "powdered cayenne",
+		"unit_categories": [
+			"weight",
+			"volume"
+		],
+		"forms": []
+	},
+	"chicken_broth": {
+		"uuid": "171674bc-19f4-402f-99f8-f55e1135f94d",
+		"name": "chicken broth",
+		"plural": "chicken broth",
+		"unit_categories": [
+			"volume"
+		],
+		"forms": []
+	}
+}
